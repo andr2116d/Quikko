@@ -1,0 +1,5 @@
+titulo: Quikko
+orden: 1
+es: Acortador de URLs con API en Go, métricas en tiempo real por WebSocket, GeoIP y dashboard en Next.js.
+en: URL shortener with a Go API, real-time metrics over WebSockets, GeoIP and a Next.js dashboard.
+stack: [Go, Next.js, MongoDB, Redis, InfluxDB]
